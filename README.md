@@ -1,22 +1,20 @@
 <div align="center">
   
-# Hi! I'm, Hellen 🥰
+# Hi! I'm Hellen 🥰
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=Analytics+%26+Insights;Market+Intelligence;Production+Engineer;Supply+Chain+Analytics" alt="Typing SVG" />
 
 </div>
 
-  
 **Supply Chain** • **S&OP** • **Demand Planning**  • **Pricing**  
 **Data Analytics** • **Python** • **Power Platform** • **SQL**  
 **Graduated in Production Engineering** @ FEI  
-**Master in Production Engineering** @ UFSCar  
-**MBA in Data Science, Artificial Intelligence and Analytics** @ USP
+**Master in Production Engineering** @ UFSCar (ongoing)   
+**MBA in Data Science, Artificial Intelligence and Analytics** @ USP (ongoing)   
 
 ---
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hellenm.araujo)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hellenmaraujo)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellenmaria.ab@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hellenmaria)
 
@@ -24,7 +22,20 @@
 
 ---
 
-## 🌸 Sobre mim
+## 🌱 Currently learning
+
+<div align="center">
+
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"/> Machine Learning •
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"/> Cloud Architecture •
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/> Advanced SQL •
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg"/> Data Modeling
+
+</div>
+
+---
+
+## 🌸 About
 
 ```python
 class AnalyticsEngineer:
@@ -48,10 +59,6 @@ class AnalyticsEngineer:
         return "Transformando dados em vantagem competitiva 💡"
 ```
 
-<div align="center">
-  
-### 💭 *"Não basta ter dados — é preciso transformá-los em decisão estratégica"*
-
 </div>
 
 ---
@@ -60,30 +67,51 @@ class AnalyticsEngineer:
 
 <div align="center">
 
-### 📊 Data & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<table>
+<tr>
+<td align="center"><b>Data & Analytics</b></td>
+<td align="center"><b>Visualization</b></td>
+<td align="center"><b>Automation & Web</b></td>
+<td align="center"><b>Frontend</b></td>
+</tr>
 
-### 📈 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<tr>
+<td>
 
-### 🤖 Automation & Web
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> Python<br>
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/> Pandas<br>
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/> NumPy<br>
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"/> Scikit-learn
 
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</td>
 
-</div>
+<td>
+
+<img height="18" src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg"/> Power BI<br>
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> SQL<br>
+<img height="18" src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg"/> DAX<br>
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg"/> Excel
+
+</td>
+
+<td>
+
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"/> Selenium<br>
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> BeautifulSoup<br>
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> JavaScript<br>
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> TypeScript
+
+</td>
+
+<td>
+
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> React<br>
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> HTML<br>
+<img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> CSS
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -120,7 +148,7 @@ class AnalyticsEngineer:
 
 ---
 
-## 🎯 O que eu faço
+## 🎯 What I do
 
 <div align="center">
 
@@ -135,72 +163,6 @@ graph LR
     style A fill:#ff69b4,stroke:#ff1493,color:#fff
     style F fill:#ff69b4,stroke:#ff1493,color:#fff
 ```
-
-</div>
-
-### Especialidades
-
-- **Pricing Analytics**: Análise competitiva, gap analysis, estratégia de precificação
-- **Market Intelligence**: Benchmarking de produtos, análise de mercado, tracking de competidores  
-- **Supply Chain Analytics**: S&OP, demand planning, forecasting com ML
-- **Data Engineering**: Scraping, pipelines, arquitetura de dados corporativos
-- **Business Intelligence**: Dashboards estratégicos, KPIs, modelagem dimensional
-
----
-
-## Atualmente estudando
-
-<div align="center">
-
-![](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Cloud_Architecture-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/Advanced_SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Data_Modeling-E34F26?style=for-the-badge&logo=databricks&logoColor=white)
-
-</div>
-
----
-
-## 📚 Formação Acadêmica
-
-🎓 **Engenharia de Produção** - Centro Universitário FEI  
-📝 **TCC**: *Sales and Operations Planning: Avaliação dos Efeitos da Previsão de Demanda Utilizando Machine Learning*  
-🔬 **Linha de pesquisa**: Integração de ML com S&OP para forecasting na indústria alimentícia  
-📊 **Resultados**: 16.3% de erro de previsão, redução significativa de custos
-
----
-
-## Filosofia
-
-<div align="center">
-
-> ### 🌟 Builder Analytics Mindset
-> 
-> **Não sou apenas analista**  
-> **Não sou apenas dev**  
-> **Não sou apenas engenheira**
-> 
-> ### Sou uma **builder analítica** com visão de processo e negócio 🚀
-
-</div>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────┐
-│  DADOS → INSIGHTS → DECISÃO → IMPACTO  │
-└─────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## Vamos conversar?
-
-<div align="center">
-
-**Me chama!** Estou sempre aberta para trocar ideias e colaborar em projetos interessantes 💡
 
 </div>
 
