@@ -115,16 +115,6 @@ class AnalyticsEngineer:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=hellenmaraujo&theme=tokyonight&hide_border=true&background=0d1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## ⭐ Featured Projects
 
 <div align="center">
