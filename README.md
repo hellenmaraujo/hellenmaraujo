@@ -1,16 +1,17 @@
 <div align="center">
   
-# ✨ Hellen Maria
+# Hi! I'm, Hellen 🥰
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=Analytics+%26+Insights;Market+Intelligence;Production+Engineer;Supply+Chain+Analytics" alt="Typing SVG" />
 
 </div>
 
-<div align="center">
   
-**Analytics & Insights** | **Market Intelligence**  | **Supply Chain** • **S&OP** • **Demand Planning**  
-**Data Analytics** • **Python** • **Power BI** • **SQL**  
-🎓 **Production Engineering** @ Centro Universitário FEI | **MSc Candidate**
+**Supply Chain** • **S&OP** • **Demand Planning**  • **Pricing**  
+**Data Analytics** • **Python** • **Power Platform** • **SQL**  
+**Graduated in Production Engineering** @ FEI  
+**Master in Production Engineering** @ UFSCar  
+**MBA in Data Science, Artificial Intelligence and Analytics** @ USP
 
 ---
 
@@ -29,7 +30,7 @@
 class AnalyticsEngineer:
     def __init__(self):
         self.name = "Hellen Maria"
-        self.role = "Analytics & Intelligence Analyst"
+        self.role = "Data Analytics & Business Intelligence Analyst"
         self.education = "Production Engineering @FEI"
         self.location = "São Paulo, Brasil 🇧🇷"
         
@@ -109,11 +110,11 @@ class AnalyticsEngineer:
 
 | Projeto | Descrição | Tech Stack |
 |---------|-----------|------------|
-| 📦 **S&OP Simulator** | Simulador de impacto de cenários para ciclo S&OP | Power BI, DAX, Python |
-| 🚲 **Bike Benchmarking** | Sistema de análise competitiva em nível de especificação | Python, Selenium, Pandas |
-| 📊 **Pricing Intelligence** | Dashboard de inteligência de mercado e gap competitivo | Power BI, SQL, Web Scraping |
-| 🤖 **Automated Pipelines** | Pipelines de coleta e processamento de dados de mercado | Python, BeautifulSoup, Pandas |
-| 📈 **Demand Forecasting** | Sistema de previsão de demanda com machine learning | Python, Scikit-learn, Statsmodels |
+| **S&OP Simulator** | Simulador de impacto de cenários para ciclo S&OP | Power BI, DAX, Python |
+| **Benchmarking** | Sistema de análise competitiva em nível de especificação | Python, Selenium, Pandas |
+| **Pricing Intelligence** | Dashboard de inteligência de mercado e gap competitivo | Power BI, SQL, Web Scraping |
+| **Automated Pipelines** | Pipelines de coleta e processamento de dados de mercado | Python, BeautifulSoup, Pandas |
+| **Demand Forecasting** | Sistema de previsão de demanda com machine learning | Python, Scikit-learn, Statsmodels |
 
 </div>
 
@@ -137,7 +138,7 @@ graph LR
 
 </div>
 
-### 💼 Especialidades
+### Especialidades
 
 - **Pricing Analytics**: Análise competitiva, gap analysis, estratégia de precificação
 - **Market Intelligence**: Benchmarking de produtos, análise de mercado, tracking de competidores  
@@ -147,7 +148,7 @@ graph LR
 
 ---
 
-## 🌱 Atualmente estudando
+## Atualmente estudando
 
 <div align="center">
 
@@ -169,7 +170,7 @@ graph LR
 
 ---
 
-## 🎨 Filosofia de trabalho
+## Filosofia
 
 <div align="center">
 
@@ -195,7 +196,7 @@ graph LR
 
 ---
 
-## 📫 Vamos conversar?
+## Vamos conversar?
 
 <div align="center">
 
