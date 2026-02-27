@@ -44,8 +44,8 @@ Também desenvolvo projetos em:
 
 ## 📊 GitHub Stats
 
-![Stats](https://SEU-VERCEL.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight&hide_border=true)
-![Langs](https://SEU-VERCEL.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://SEU-VERCEL.vercel.app/api?username=hellenmaraujo&show_icons=true&theme=tokyonight&hide_border=true)
+![Langs](https://SEU-VERCEL.vercel.app/api/top-langs/?username=hellenmaraujo&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
