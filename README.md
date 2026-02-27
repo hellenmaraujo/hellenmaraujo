@@ -119,13 +119,6 @@ class AnalyticsEngineer:
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellenmaraujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellenmaraujo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-  
 [![GitHub Streak](https://streak-stats.demolab.com?user=hellenmaraujo&theme=tokyonight&hide_border=true&background=0d1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4)](https://git.io/streak-stats)
 
 </div>
